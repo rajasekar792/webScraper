@@ -1,10 +1,5 @@
-Sample Module Repository
+Scrape Financial Data for Stocks
 ========================
 
-This simple project is an example repo for Python projects.
+This simple project is to scrape financial data and collate them
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
